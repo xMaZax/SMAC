@@ -24,7 +24,7 @@ public Plugin myinfo =
 {
 	name = "SMAC Status Protect", 
 	author = SMAC_AUTHOR, 
-	description = "Prevents flooding spam and ping command.s", 
+	description = "Prevents flooding spam and ping commands", 
 	version = SMAC_VERSION, 
 	url = SMAC_URL
 };
